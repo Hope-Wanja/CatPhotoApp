@@ -17,5 +17,4 @@ A beginner friendly, HTML webpage built as part of web development practice, fea
 To view or run this project on your local machine:
 
 1. Clone the repository:
-
-   git clone [https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git)
+   git clone [https://github.com/Hope-Wanja/CatPhotoApp.git]
